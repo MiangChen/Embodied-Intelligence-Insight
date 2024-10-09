@@ -11,6 +11,9 @@ Chuang Gan, at MIT, [Homepage](https://people.csail.mit.edu/ganchuang/), [Google
 Feifei Li, at Standford, [Homepage](https://profiles.stanford.edu/fei-fei-li), [GoogleScolar](https://scholar.google.com/citations?hl=zh-CN&user=rDfyQnIAAAAJ)
 
 ## Papers
+GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation: [Homepage](https://gr2-manipulation.github.io/)
+
+
 
 ## Open-Source Projects
 
