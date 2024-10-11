@@ -16,6 +16,7 @@ Feifei Li, at Standford, [Homepage](https://profiles.stanford.edu/fei-fei-li), [
 ## Papers
 GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation: [Homepage](https://gr2-manipulation.github.io/)
 
+RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [Homapage](https://arxiv.org/abs/2307.15818)
 
 
 ## Open-Source Projects
