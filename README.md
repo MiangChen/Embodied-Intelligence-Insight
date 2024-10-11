@@ -32,6 +32,8 @@ RT-H: Action Hierarchies Using Language [Homepage](https://arxiv.org/abs/2403.01
 
 **HUMANOID**
 
+H2O: Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation  [Homepage](https://arxiv.org/abs/2403.04436)
+
 OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning  [Homepage](https://arxiv.org/abs/2406.08858)
 
 WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts  [Homepage](https://arxiv.org/abs/2406.06005)
