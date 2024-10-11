@@ -14,6 +14,7 @@ Feifei Li, at Standford, [Homepage](https://profiles.stanford.edu/fei-fei-li), [
 
 
 ## Papers
+**MANIPULATION**
 GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation  [Homepage](https://gr2-manipulation.github.io/)
 
 Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation  [Homepage](https://arxiv.org/abs/2401.02117)
@@ -28,8 +29,10 @@ RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control  [
 
 RT-H: Action Hierarchies Using Language [Homepage](https://arxiv.org/abs/2403.01823)
 
+**HUMANOID**
+OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning  [Homepage](https://arxiv.org/abs/2406.08858)
 
-
+WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts  [Homepage](https://arxiv.org/abs/2406.06005)
 ## Open-Source Projects
 
 ## Tutorials & Courses 
