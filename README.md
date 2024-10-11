@@ -2,7 +2,7 @@
 Collect cutting-edge articles and papers on the field of embodied intelligence.
 
 ## Well-known laboratories
-Carnegie Mellon University Robotics Institution, [Homepage](https://www.ri.cmu.edu/ri-education/)
+Carnegie Mellon University Robotics Institution, [Homepage](https://www.ri.cmu.edu/ri-education/), [Groups](https://www.ri.cmu.edu/research/labs-groups/)
 
 Shuran Song, at Standford, [Homepage](https://shurans.github.io/), [GoogleScolar](https://scholar.google.com/citations?hl=zh-CN&user=5031vK4AAAAJ)
 
