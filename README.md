@@ -18,6 +18,8 @@ GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robo
 
 Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation  [Homepage](https://arxiv.org/abs/2401.02117)
 
+ALOHA: Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware  [Homepage](https://arxiv.org/abs/2304.13705)
+
 ALOHA 2: An Enhanced Low-Cost Hardware for Bimanual Teleoperation  [Homepage](https://arxiv.org/abs/2405.02292)
 
 RT-1: Robotics Transformer for Real-World Control at Scale  [Homepage](https://arxiv.org/abs/2212.06817)
