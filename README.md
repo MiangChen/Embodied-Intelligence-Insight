@@ -37,6 +37,8 @@ RT-1: Robotics Transformer for Real-World Control at Scale  [Homepage](https://a
 RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control  [Homapage](https://arxiv.org/abs/2307.15818) 
 
 RT-H: Action Hierarchies Using Language [Homepage](https://arxiv.org/abs/2403.01823)
+  
+Open-TeleVision: Teleoperation with Immersive Active Visual Feedback  [Homepage](https://arxiv.org/abs/2407.01512)
 
 **HUMANOID**
 
