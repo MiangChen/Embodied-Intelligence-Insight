@@ -24,6 +24,8 @@ Shuran Song,  [Homepage](https://shurans.github.io/), [Google Scholar](https://s
 ## Papers
 **MANIPULATION**
 
+GR-1: UNLEASHING LARGE-SCALE VIDEO GENERATIVE PRE-TRAINING FOR VISUAL ROBOT MANIPULATION [Homepage](https://arxiv.org/abs/2312.13139)
+
 GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation  [Homepage](https://gr2-manipulation.github.io/)
 
 Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation  [Homepage](https://arxiv.org/abs/2401.02117)
